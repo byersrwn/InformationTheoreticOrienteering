@@ -1,0 +1,49 @@
+maxX: 100
+maxY: 100
+numIndustrial: 1
+industrialData:
+- ID: 1
+  industrialX: 50
+  industrialY: 50
+points:
+- ID: 1
+  x: 61
+  y: 61
+  probability: 0.97
+- ID: 2
+  x: 48
+  y: 46
+  probability: 0.93
+- ID: 3
+  x: 45
+  y: 43
+  probability: 0.88
+- ID: 4
+  x: 45
+  y: 61
+  probability: 0.87
+- ID: 5
+  x: 62
+  y: 48
+  probability: 0.89
+- ID: 6
+  x: 32
+  y: 89
+  probability: 0.48
+- ID: 7
+  x: 13
+  y: 22
+  probability: 0.34
+- ID: 8
+  x: 2
+  y: 98
+  probability: 0.15
+- ID: 9
+  x: 78
+  y: 2
+  probability: 0.24
+- ID: 10
+  x: 32
+  y: 34
+  probability: 0.63
+

@@ -1,0 +1,24 @@
+maxX: 100
+maxY: 100
+numIndustrial: 1
+industrialData:
+- ID: 1
+  industrialX: 50
+  industrialY: 50
+points:
+- ID: 1
+  x: 10
+  y: 10
+  probability: 0.2
+  found: 0
+- ID: 2
+  x: 25
+  y: 30
+  probability: 0.4
+  found: 0
+- ID: 3
+  x: 40
+  y: 45
+  probability: 0.9
+  found: 1
+
